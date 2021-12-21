@@ -1,0 +1,37 @@
+.anime:hover{
+    background-color:#ff0000;
+    border: #ff0000 12px solid;
+    text-decoration: none;
+}
+    #fixed{
+    background-color: #ff0000;
+    border: #ff0000 12px solid
+}
+    #seprate{
+    background-color: #5f1717;
+    border:#5f1717 12px solid
+}
+#para{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    scroll-margin-inline-end: 0px;
+    padding: 9px;
+}
+img{
+    display: inline;
+    float: left;
+    width: 14cm;
+    height: 9cm; 
+    margin: 15px;
+}
+.famm{
+    background-color: #212331;
+    text-align: center;
+}
+.center{
+    width:auto;
+    height: auto;
+    margin: auto;
+  }
+
